@@ -1,0 +1,5 @@
+horas= input("inserte numero de horas trabajadas: ")
+coste= input ("inserte coste por hora: ")
+paga= int(horas)*int(coste)
+print(f"su paga es: {paga}")
+input()
