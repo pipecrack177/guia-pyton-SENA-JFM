@@ -4,6 +4,6 @@ if float(divisor) == 0:
     print("error")
 else:
     division= float(dividendo)/float(divisor)
-    print(division)
+    print(f"el resultado es: {division}")
 input()
 
